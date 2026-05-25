@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vanilladiscord999.aternos.me",
-    "port": 33385,
+    "ip": "MondoDiscordFinale.aternos.me",
+    "port": 27267,
     "version": "1.21.11",
     "try-creative": false
   },
